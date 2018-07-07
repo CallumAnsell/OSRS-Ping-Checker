@@ -1,0 +1,10 @@
+C:\Users\Callum\Documents\Dropbox\Dev\OSRS Helper\OSRS Helper\obj\Debug\OSRS Helper.csprojResolveAssemblyReference.cache
+C:\Users\Callum\Documents\Dropbox\Dev\OSRS Helper\OSRS Helper\obj\Debug\OSRS_Helper.Properties.Resources.resources
+C:\Users\Callum\Documents\Dropbox\Dev\OSRS Helper\OSRS Helper\obj\Debug\OSRS Helper.csproj.GenerateResource.Cache
+C:\Users\Callum\Documents\Dropbox\Dev\OSRS Helper\OSRS Helper\obj\Debug\OSRS Helper.csproj.CoreCompileInputs.cache
+C:\Users\Callum\Documents\Dropbox\Dev\OSRS Helper\OSRS Helper\bin\Debug\OSRS Ping Checker.exe.config
+C:\Users\Callum\Documents\Dropbox\Dev\OSRS Helper\OSRS Helper\bin\Debug\OSRS Ping Checker.exe
+C:\Users\Callum\Documents\Dropbox\Dev\OSRS Helper\OSRS Helper\bin\Debug\OSRS Ping Checker.pdb
+C:\Users\Callum\Documents\Dropbox\Dev\OSRS Helper\OSRS Helper\obj\Debug\OSRS Ping Checker.exe
+C:\Users\Callum\Documents\Dropbox\Dev\OSRS Helper\OSRS Helper\obj\Debug\OSRS Ping Checker.pdb
+C:\Users\Callum\Documents\Dropbox\Dev\OSRS Helper\OSRS Helper\obj\Debug\OSRS_Helper.Main.resources
